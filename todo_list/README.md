@@ -205,3 +205,6 @@ La creacion de este proyecto consto de la creacion de un sitio web, tomado de el
 - [Skills Netowrk](https://acortar.link/2cbbrE)
 
  la implementación práctica de la creación de tareas, la eliminación y edición dinámica, junto con la interactividad mejorada mediante casillas de verificación y la alternancia, demuestran la robustez y la reactividad de una aplicación construida con React. La persistencia de datos utilizando el hook useEffect garantiza que las tareas se guarden y se mantengan entre sesiones del navegador, proporcionando una experiencia de usuario fluida y continua. Estas funcionalidades esenciales preparan a los desarrolladores para construir aplicaciones web completas y eficientes, donde la manipulación de estados y la interacción dinámica son fundamentales. En lo personal la creacion de esta practica fue sencilla, pero un poco tediosa, sencilla porque ya teniamos el manual y los fracmentos de codigos que ibamos ir utilizando y tediosa al momento de intentar comprender que hacia cada linea, pero se logro el objetivo final. Considero que Skills Netowork es una buena herramienta para nosotros que como estudiantes vamos iniciando. 
+ 
+ Anexo una imagen de la pagina web final.
+![alt text](image.png)
